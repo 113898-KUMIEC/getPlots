@@ -1,4 +1,4 @@
-
+{
   "content": [
     {
       "id": 1,
@@ -129,5 +129,6 @@
       "account_id": null,
       "is_active": true,
       "balance": null
-    }
+    },
   ]
+}
