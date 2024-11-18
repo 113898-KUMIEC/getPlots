@@ -1,17 +1,64 @@
 {
-  "content": [
-    {
-      "id": 1,
-      "plot_number": 1001,
-      "block_number": 1,
-      "total_area": 500,
-      "built_area": 100,
-      "plot_status": "CREATED",
-      "plot_type": "COMMERCIAL",
-      "percentage_for_expense": 0.11,
-      "account_id": null,
-      "is_active": true,
-      "balance": null
-    }
-  ]
+    "employee": [
+        {
+            "id": 1,
+            "first_name": "John",
+            "last_name": "Perez",
+            "doc_number": "12345678"
+        },
+        {
+            "id": 2,
+            "first_name": "Anna",
+            "last_name": "Garcia",
+            "doc_number": "87654321"
+        },
+        {
+            "id": 3,
+            "first_name": "Lewis",
+            "last_name": "Martinez",
+            "doc_number": "23456789"
+        },
+        {
+            "id": 4,
+            "first_name": "Mary",
+            "last_name": "Lopez",
+            "doc_number": "34567890"
+        },
+        {
+            "id": 5,
+            "first_name": "Charles",
+            "last_name": "Hernandez",
+            "doc_number": "45678901"
+        },
+        {
+            "id": 6,
+            "first_name": "Laura",
+            "last_name": "Diaz",
+            "doc_number": "56789012"
+        },
+        {
+            "id": 7,
+            "first_name": "George",
+            "last_name": "Martin",
+            "doc_number": "67890123"
+        },
+        {
+            "id": 8,
+            "first_name": "Sophia",
+            "last_name": "Gonzalez",
+            "doc_number": "78901234"
+        },
+        {
+            "id": 9,
+            "first_name": "James",
+            "last_name": "Rodriguez",
+            "doc_number": "89012345"
+        },
+        {
+            "id": 10,
+            "first_name": "Valerie",
+            "last_name": "Torres",
+            "doc_number": "90123456"
+        }
+    ]
 }
